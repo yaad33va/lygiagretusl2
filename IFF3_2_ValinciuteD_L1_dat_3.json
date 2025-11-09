@@ -1,0 +1,154 @@
+{
+  "foods": [
+    {
+      "name": "MILK-1001",
+      "quantity": 10,
+      "price": 2.00
+    },
+    {
+      "name": "BREAD-1002",
+      "quantity": 5,
+      "price": 3.00
+    },
+    {
+      "name": "COFFEE-1003",
+      "quantity": 3,
+      "price": 6.00
+    },
+    {
+      "name": "BUTTER-1004",
+      "quantity": 4,
+      "price": 2.50
+    },
+    {
+      "name": "CHEESE-1005",
+      "quantity": 2,
+      "price": 7.00
+    },
+    {
+      "name": "EGGS-1006",
+      "quantity": 8,
+      "price": 1.50
+    },
+    {
+      "name": "YOGURT-1007",
+      "quantity": 12,
+      "price": 1.20
+    },
+    {
+      "name": "SAUSAGE-1008",
+      "quantity": 2,
+      "price": 9.00
+    },
+    {
+      "name": "CHICKEN-1009",
+      "quantity": 3,
+      "price": 4.50
+    },
+    {
+      "name": "POTATOES-1010",
+      "quantity": 20,
+      "price": 1.00
+    },
+    {
+      "name": "TOMATOES-1011",
+      "quantity": 6,
+      "price": 2.00
+    },
+    {
+      "name": "CUCUMBERS-1012",
+      "quantity": 5,
+      "price": 2.50
+    },
+    {
+      "name": "APPLES-1013",
+      "quantity": 10,
+      "price": 1.80
+    },
+    {
+      "name": "BANANAS-1014",
+      "quantity": 12,
+      "price": 1.50
+    },
+    {
+      "name": "PASTA-1015",
+      "quantity": 8,
+      "price": 2.00
+    },
+    {
+      "name": "RICE-1016",
+      "quantity": 6,
+      "price": 3.00
+    },
+    {
+      "name": "OIL-1017",
+      "quantity": 3,
+      "price": 4.00
+    },
+    {
+      "name": "SUGAR-1018",
+      "quantity": 15,
+      "price": 1.00
+    },
+    {
+      "name": "SALT-1019",
+      "quantity": 20,
+      "price": 0.80
+    },
+    {
+      "name": "FLOUR-1020",
+      "quantity": 12,
+      "price": 1.50
+    },
+    {
+      "name": "JUICE-1021",
+      "quantity": 6,
+      "price": 2.50
+    },
+    {
+      "name": "WATER-1022",
+      "quantity": 30,
+      "price": 0.90
+    },
+    {
+      "name": "CHOCOLATE-1023",
+      "quantity": 4,
+      "price": 3.00
+    },
+    {
+      "name": "COOKIES-1024",
+      "quantity": 5,
+      "price": 2.50
+    },
+    {
+      "name": "ICE_CREAM-1025",
+      "quantity": 3,
+      "price": 5.00
+    },
+    {
+      "name": "CURD-1026",
+      "quantity": 6,
+      "price": 2.00
+    },
+    {
+      "name": "SOUR_CREAM-1027",
+      "quantity": 8,
+      "price": 1.50
+    },
+    {
+      "name": "HAM-1028",
+      "quantity": 2,
+      "price": 10.00
+    },
+    {
+      "name": "ONIONS-1029",
+      "quantity": 25,
+      "price": 1.00
+    },
+    {
+      "name": "CARROTS-1030",
+      "quantity": 30,
+      "price": 0.90
+    }
+  ]
+}
